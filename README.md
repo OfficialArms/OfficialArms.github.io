@@ -25,12 +25,27 @@ If you do not have any experience in Markdown a great tutorial can be found in t
     2. Set the repostory to public
     3. Click the green **create repository button**
 
-# Authors and Acknowledgements
+### Clone the repository
 
+
+Final step: load the URL
+
+### Choose your template
+
+# Authors and Acknowledgements
+My homies in class
+The template I used
 
 
 # FAQs
 
+**Q: Why is Markdown better than a word processor?**
+
+A: Markdown is a lightweight solution to documentation. It allows the documentation to be writen simply, then automatically processed through static site generators. This allows templates to much more easiy be used updated to fit the needs of the documentation
+
+**A question about the practical details, such as “Why is my resume not showing u**
+____ ADD SOMETHING HERE ____________
 
 
 # More Resources
+https://linuxhint.com/markdown-tutorial-from-setup-to-syntax/
