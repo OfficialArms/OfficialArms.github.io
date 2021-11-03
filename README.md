@@ -4,7 +4,11 @@ This project is a static site hosting my resume. The stack used is Markdown, Jek
 
 ## Purpose
 
-The purpose of this readme is to go through the steps you need to setup your resume to a static page with Github Pages
+The purpose of this readme is to teach you the steps you need to setup your resume to a static page with Github Pages, and learn how easy it is to maintain. 
+
+A big inspiration for this project comes from Andrew Etter's book - Modern Technical Writing: An Introduction to Software Documentation, which can be found in the **More Resources** Section. Etter describes the importance of static webpages over traditional dynamic pages or uploading files as PDFs. It's far easier to create and update a simple static web page to host your lightweight documentation than it is to try and update a dynamic page, or a pdf file people have already downloaded. 
+
+I hope that this tutorial will show how easy it is to setup, update, and maintain a static webpage and get you interested in the value it brings. 
 
 ## Prerequisits
 
@@ -37,6 +41,8 @@ If you do not have any experience in Markdown a great tutorial can be found in t
 An updated readme should now be at the main page of your repository, along with a new \_config.yml file. This config file is where the template is stored and you can update which template is used manually if you know the name of a different template.
 
 Once this template has been added going to the URL: **_username_/github.io** should lead you to a static page with the previously generated readme now using your chosen template. 
+
+The great thing about these templates is at anypoint if you want to change them it's as simple as going back into that template viewer and selecting a new one. 
 
 ### Adding your resume
 
