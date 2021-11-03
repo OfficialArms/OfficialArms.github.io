@@ -46,6 +46,10 @@ Once you've set initialized your repository and set a template you like the rema
 2. Add your Markdown resume to the repository nameed _index.md_ and push it to update those changes to Github
 3. Visit **_username_/github.io** again and your resume should be viewable on your Github Pages domain with the template you chose
 
+You're now done. Viewing your resume online should now be as simple as putting in your repositories name as your URL 🎉
+
+![demonstration gif](demonstration.gif)
+
 If you still see the _Welcome to GitHub Pages_ readme text first ensure your changes have been pushed to Github. First check to see if your resume file _index.md_ is in your repository on Github. If it is give the page a view seconds to update the page and refresh the page when 5-10 seconds have passed.  
 
 # Authors and Acknowledgements 
