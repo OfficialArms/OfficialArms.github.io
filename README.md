@@ -36,7 +36,7 @@ If you do not have any experience in Markdown a great tutorial can be found in t
 
 An updated readme should now be at the main page of your repository, along with a new \_config.yml file. This config file is where the template is stored and you can update which template is used manually if you know the name of a different template.
 
-Once this template has been added going to the URL: **_myUsername_/github.io** should lead you to a static page with the previously generated readme now using your chosen template. 
+Once this template has been added going to the URL: **_username_/github.io** should lead you to a static page with the previously generated readme now using your chosen template. 
 
 ### Adding your resume
 
@@ -44,7 +44,7 @@ Once you've set initialized your repository and set a template you like the rema
 
 1. Clone your repository to your local machine
 2. Add your Markdown resume to the repository nameed _index.md_ and push it to update those changes to Github
-3. Visit **_myUsername_/github.io** again and your resume should be viewable on your Github Pages domain with the template you chose
+3. Visit **_username_/github.io** again and your resume should be viewable on your Github Pages domain with the template you chose
 
 If you still see the _Welcome to GitHub Pages_ readme text first ensure your changes have been pushed to Github. First check to see if your resume file _index.md_ is in your repository on Github. If it is give the page a view seconds to update the page and refresh the page when 5-10 seconds have passed.  
 
@@ -76,14 +76,8 @@ A: The issue may stem from several different sources. I'd recommend trying the f
 
 ## More Resources
 
-**Markdown Tutorial:**
+**[Linuxhint's Markdown Tutorial](https://linuxhint.com/markdown-tutorial-from-setup-to-syntax/)**
 
-https://linuxhint.com/markdown-tutorial-from-setup-to-syntax/
+**[Andrew Etter's book - Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)**
 
-**Andrew Etter's book - Modern Technical Writing: An Introduction to Software Documentation:**
-
-https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
-
-**Github Pages' Help Page:**
-
-https://docs.github.com/en/pages
+**[Github Pages' Help Page](https://docs.github.com/en/pages)**
